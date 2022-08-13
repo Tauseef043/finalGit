@@ -25,11 +25,11 @@ public class HomePageCopy extends base{
 	public void Login
 	{
 
-		//one is inheritance
+		//this is awais code
+//this is awais code
+//this is awais code
+ //this is awais code
 
-		// creating object to that class and invoke methods of it
-//this is login test
-		
 		
 		}
 
